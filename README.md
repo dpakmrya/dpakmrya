@@ -2,29 +2,21 @@
   <b>Abhigyan Trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm Dipak Mourya, I am a 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">Malware Developer</a>, 
+, RED TEAMER.
 
 <br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
 
 ```python
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Dipak mourya";
+    self.username = "dpakmrya";
+    self.location = "LOCALHOST";
+    self.twitter = "@dpakmrya";
+    self.web = "https://dpak.dev";
   
   def __str__(self):
     return self.name
