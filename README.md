@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Dipak Mourya</b>
 </h1>
 
-Hey! I'm Dipak Mourya, I am a Malware Developer, RED TEAMER.
+Hey! I'm Dipak Mourya, Interested In Bugs.
 
 <br>
 
